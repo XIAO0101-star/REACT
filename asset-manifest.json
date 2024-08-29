@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/REACT/static/css/main.e3471a8e.css",
+    "main.js": "/REACT/static/js/main.dad6b031.js",
+    "static/js/453.f5032a1a.chunk.js": "/REACT/static/js/453.f5032a1a.chunk.js",
+    "static/media/japanese-food-2.jpeg": "/REACT/static/media/japanese-food-2.29282ac89e4b4e73af29.jpeg",
+    "static/media/japanese-food-1.jpeg": "/REACT/static/media/japanese-food-1.2f5cb6bd4d9d310a22e0.jpeg",
+    "index.html": "/REACT/index.html",
+    "main.e3471a8e.css.map": "/REACT/static/css/main.e3471a8e.css.map",
+    "main.dad6b031.js.map": "/REACT/static/js/main.dad6b031.js.map",
+    "453.f5032a1a.chunk.js.map": "/REACT/static/js/453.f5032a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3471a8e.css",
+    "static/js/main.dad6b031.js"
+  ]
+}
