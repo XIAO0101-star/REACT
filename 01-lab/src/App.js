@@ -6,6 +6,7 @@ import NumberBox from './NumberBox.js';
 import AlertBox from './AlertBox.js';
 import TickleBox from './TickleBox.js';
 import NumberBox1 from './NumberBox1.js';
+import RandomUser from './RandomUser.js';
 function App() {
   return (
   <React.Fragment>
@@ -20,6 +21,7 @@ function App() {
     <NumberBox1 initialValue={15}/>
     <AlertBox initialMessage={"Robinson!"}/>
     <TickleBox/>
+    <RandomUser/>
   </React.Fragment>
   );
 }
